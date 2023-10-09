@@ -1,13 +1,13 @@
 # Cards 3D
 
 - Este repositório contém cards 3D criados com HTML e CSS.
-
+- Os cards 3D são uma adição visualmente atraente e funcional para muitos tipos de projetos da web. Eles oferecem uma maneira elegante de apresentar informações de forma organizada e interativa. 
 
 ## Recursos
 
 - *HTML*: O arquivo HTML (`index.html`) contém a estrutura básica dos cards 3D.
 
-- *CSS*: O arquivo CSS (`styles.css`) define a aparência dos cards 3D., incluindo o posicionamento, a animação de Hover.
+- *CSS*: O arquivo CSS (`styles.css`) define a aparência dos cards 3D., incluindo o posicionamento e animação de Hover.
 
 ## Pré-requisitos
 
