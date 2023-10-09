@@ -25,3 +25,8 @@ Certifique-se de ter os seguintes arquivos em seu projeto:
 
  ```
 <img src="https://i.imgur.com/UnzvdLZ.png" alt="GIF" data-canonical-src="https://i.imgur.com/UnzvdLZ.png" style="max-width: 50%;">
+
+# Design Responsivo
+- Os cards possuem um design responsivo que se adapta a diferentes tamanhos de tela.
+
+<img src="https://i.imgur.com/Ycw1YPa.png" alt="GIF" data-canonical-src="https://i.imgur.com/Ycw1YPa.png" style="max-width: 50%;">
